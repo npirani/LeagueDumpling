@@ -7,7 +7,7 @@
         "summonerURL": "/lol/summoner/v4/summoners/by-name/",
         "spectatorURL": "/lol/spectator/v4/active-games/by-summoner/",
         "region": "na1",
-        "matchNum": 5,
+        "matchNum": 3,
         "nightPerc": 0.4,
         "dayPerc": 1.0,
         "nightStart": 18,
