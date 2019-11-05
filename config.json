@@ -1,0 +1,17 @@
+[
+    {
+        "apiKey": "APIKey",
+        "summoner": "SummonerName",
+        "matchListURL": "/lol/match/v4/matchlists/by-account/",
+        "matchDetailURL": "/lol/match/v4/matches/",
+        "summonerURL": "/lol/summoner/v4/summoners/by-name/",
+        "spectatorURL": "/lol/spectator/v4/active-games/by-summoner/",
+        "region": "na1",
+        "matchNum": 5,
+        "nightPerc": 0.4,
+        "dayPerc": 1.0,
+        "nightStart": 18,
+        "nightEnd": 8,
+        "nightMode": 1
+    }
+]
